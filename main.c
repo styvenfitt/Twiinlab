@@ -9,7 +9,7 @@ int main() {
    ////////////////////////////////////////
    print("Habilitar servicio web");
    print("Listar usuarios");
-   print("Back de la seccion gestion usuarios");
+   printf("Back de la seccion gestion usuarios");
    printf("logica backend");
    printf("diseño ux/ui de la web");
    printf("inputs usernam, password");
@@ -20,7 +20,12 @@ int main() {
    printf("actualizar caálogo de dispositivos");
    printf("alojar aplicaciones y modelos");
    printf("procesado de directivas recibidas via API");
-   printd("diseñar funciones predefinidas");
+   printf("diseñar funciones predefinidas");
+   
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de ToDo");
+   
 
    return 0;
 }
