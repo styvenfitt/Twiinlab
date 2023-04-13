@@ -13,17 +13,32 @@ int main() {
    printf("logica backend");
    printf("diseño ux/ui de la web");
    printf("inputs usernam, password");
-   printf("crear servicio de teleoperadores");
-   printf("crear seccion de login");
-   printf("añadir boton para eliminar permisos");
    printf("desplegar VMs");
    printf("actualizar caálogo de dispositivos");
    printf("alojar aplicaciones y modelos");
    printf("procesado de directivas recibidas via API");
-   printf("diseñar funciones predefinidas");
    printf("Actualizar API");
    printf("diseñar funciones predeterminadas");
-   
 
+   
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  DOINGs");
+   //////////////////////////////////////////////////
+   
+   printf("crear servicio de teleoperadores");
+   printf("crear seccion de login");
+   
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  REVIEW");
+   //////////////////////////////////////////////////
+   printf("crear seccion de login");
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  DONE");
+   //////////////////////////////////////////////////
+   printf("añadir boton para eliminar permisos");
+   
    return 0;
 }
