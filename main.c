@@ -32,6 +32,7 @@ int main() {
    printf("se crea un branch de  REVIEW");
    //////////////////////////////////////////////////
    printf("añadir boton para eliminar permisos");
+   printf("crear seccion de login");
    
    return 0;
 }
