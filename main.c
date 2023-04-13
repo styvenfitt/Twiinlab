@@ -4,9 +4,12 @@ int main() {
    printf("Bienvenido al repositorio de Twiinlab!");
 
    printf("A partir de ahora actualizaremos el estado del proyecto desde aquí!!");
-   //////////////////////////////////////////
+   
    printf("se crea un branch de ToDo");
-   //////////////////////////////////////////
+   ////////////////////////////////////////
+   print("Habilitar servicio web");
+   print("Listar usuarios");
+   print("Back de la seccion gestion usuarios");
    printf("logica backend");
    printf("diseño ux/ui de la web");
    printf("inputs usernam, password");
@@ -18,8 +21,6 @@ int main() {
    printf("alojar aplicaciones y modelos");
    printf("procesado de directivas recibidas via API");
    printd("diseñar funciones predefinidas");
-   
-
 
    return 0;
 }
