@@ -26,13 +26,18 @@ int main() {
    
    printf("crear servicio de teleoperadores");
    printf("crear seccion de login");
-   printf("añadir boton para eliminar permisos");
    
-      ///////////////////////////////////////////////////
+   
+   ///////////////////////////////////////////////////
    printf("se crea un branch de  REVIEW");
    //////////////////////////////////////////////////
-   printf("añadir boton para eliminar permisos");
    printf("crear seccion de login");
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  DONE");
+   //////////////////////////////////////////////////
+   printf("añadir boton para eliminar permisos");
+   
    
    return 0;
 }
