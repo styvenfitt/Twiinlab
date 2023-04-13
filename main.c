@@ -7,8 +7,8 @@ int main() {
    
    printf("se crea un branch de ToDo");
    ////////////////////////////////////////
-   print("Habilitar servicio web");
-   print("Listar usuarios");
+   printf("Habilitar servicio web");
+   printf("Listar usuarios");
    printf("Back de la seccion gestion usuarios");
    printf("logica backend");
    printf("diseño ux/ui de la web");
