@@ -13,9 +13,6 @@ int main() {
    printf("logica backend");
    printf("diseño ux/ui de la web");
    printf("inputs usernam, password");
-   printf("crear servicio de teleoperadores");
-   printf("crear seccion de login");
-   printf("añadir boton para eliminar permisos");
    printf("desplegar VMs");
    printf("actualizar caálogo de dispositivos");
    printf("alojar aplicaciones y modelos");
@@ -24,8 +21,12 @@ int main() {
    
    
    ///////////////////////////////////////////////////
-   printf("se crea un branch de ToDo");
+   printf("se crea un branch de  DOINGs");
+   //////////////////////////////////////////////////
    
-
+   printf("crear servicio de teleoperadores");
+   printf("crear seccion de login");
+   printf("añadir boton para eliminar permisos");
+   
    return 0;
 }
