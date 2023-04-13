@@ -7,20 +7,37 @@ int main() {
    
    printf("se crea un branch de ToDo");
    ////////////////////////////////////////
-   print("Habilitar servicio web");
-   print("Listar usuarios");
-   print("Back de la seccion gestion usuarios");
+   printf("Habilitar servicio web");
+   printf("Listar usuarios");
+   printf("Back de la seccion gestion usuarios");
    printf("logica backend");
    printf("diseño ux/ui de la web");
    printf("inputs usernam, password");
-   printf("crear servicio de teleoperadores");
-   printf("crear seccion de login");
-   printf("añadir boton para eliminar permisos");
    printf("desplegar VMs");
    printf("actualizar caálogo de dispositivos");
    printf("alojar aplicaciones y modelos");
    printf("procesado de directivas recibidas via API");
-   printd("diseñar funciones predefinidas");
-
+   printf("diseñar funciones predefinidas");
+   
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  DOINGs");
+   //////////////////////////////////////////////////
+   
+   printf("crear servicio de teleoperadores");
+   printf("crear seccion de login");
+   
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  REVIEW");
+   //////////////////////////////////////////////////
+   printf("crear seccion de login");
+   
+   ///////////////////////////////////////////////////
+   printf("se crea un branch de  DONE");
+   //////////////////////////////////////////////////
+   printf("añadir boton para eliminar permisos");
+   
+   
    return 0;
 }
