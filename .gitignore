@@ -1,0 +1,11 @@
+# log folder
+logs/
+
+# log files
+.log
+
+# macOS Files
+.DS_Store
+
+# ignorar config.json
+config.json
