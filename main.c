@@ -17,7 +17,9 @@ int main() {
    printf("actualizar caálogo de dispositivos");
    printf("alojar aplicaciones y modelos");
    printf("procesado de directivas recibidas via API");
-   printf("diseñar funciones predefinidas");
+   printf("Actualizar API");
+   printf("diseñar funciones predeterminadas");
+
    
    
    ///////////////////////////////////////////////////
@@ -37,7 +39,6 @@ int main() {
    printf("se crea un branch de  DONE");
    //////////////////////////////////////////////////
    printf("añadir boton para eliminar permisos");
-   
    
    return 0;
 }
